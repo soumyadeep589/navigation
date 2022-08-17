@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/drawable/trivia_rules.xml" value="0.1285" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12092391304347826" />
         <entry key="app/src/main/res/layout/fragment_about.xml" value="0.12092391304347826" />
+        <entry key="app/src/main/res/layout/fragment_rules.xml" value="0.2760416666666667" />
         <entry key="app/src/main/res/layout/fragment_title.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_title2.xml" value="0.22201946472019465" />
       </map>
